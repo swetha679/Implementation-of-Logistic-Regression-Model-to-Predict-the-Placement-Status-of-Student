@@ -74,45 +74,38 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![The Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 # HEAD
 
+![Screenshot 2025-04-19 173322](https://github.com/user-attachments/assets/acae768c-b38c-45a9-95d2-913b721fe6ab)
 
-![Screenshot 2025-04-19 160215](https://github.com/user-attachments/assets/71e6ffaa-fe12-40e3-b016-35e9701dd98d)
 
 # COPY:
 
+![Screenshot 2025-04-19 173330](https://github.com/user-attachments/assets/816c2935-c0be-47ce-bb5e-dc7aa4cf32d1)
 
-
-![Screenshot 2025-04-19 160230](https://github.com/user-attachments/assets/f8b35070-f646-4c74-9d82-5e8a725cf104)
-![Screenshot 2025-04-19 160240](https://github.com/user-attachments/assets/ba72e8ef-1a4e-42b4-95c8-05f81bd73f33)
-![Screenshot 2025-04-19 160253](https://github.com/user-attachments/assets/a6663b06-191f-4efc-83b8-4cf73d1c0810)
 
 
 # FIT TRANSFORM
 
-![Screenshot 2025-04-19 160307](https://github.com/user-attachments/assets/cb518db1-13dc-45ce-b2f1-1d3ac8beed20)
-![Screenshot 2025-04-19 160317](https://github.com/user-attachments/assets/ca091e46-2cea-4c15-96f3-3dc7356bbb99)
+![Screenshot 2025-04-19 173341](https://github.com/user-attachments/assets/91a05e2a-b924-4439-a828-b84cfe63b589)
+
 
 #  LOGISTIC REGRESSION
+![Screenshot 2025-04-19 173351](https://github.com/user-attachments/assets/652c22b4-ff0e-49b5-bf38-d508e8d70e10)
 
-![Screenshot 2025-04-19 160327](https://github.com/user-attachments/assets/923ee9bb-d2ae-440b-91ee-d15c03e5255d)
-![Screenshot 2025-04-19 160334](https://github.com/user-attachments/assets/1a27dab9-1699-499f-91a6-dcf816bb9fdb)
-![Screenshot 2025-04-19 160343](https://github.com/user-attachments/assets/a713731c-d123-4aa1-a0a2-633e65cfd5dd)
 
 
 
 #  ACCURACY SCORE
+![Screenshot 2025-04-19 173401](https://github.com/user-attachments/assets/1ab04dec-bc2a-42ec-802c-ea13bff1e5c4)
 
-![Screenshot 2025-04-19 160353](https://github.com/user-attachments/assets/01503ec4-fa8f-46a4-b9cb-822c235e0204)
-![Screenshot 2025-04-19 160401](https://github.com/user-attachments/assets/2eea4219-390e-4974-9cc9-541e69dbc1b5)
 
 # CONFUSION MATRIX
+![Screenshot 2025-04-19 173409](https://github.com/user-attachments/assets/8f807836-9013-4e77-b94e-3346dd23680b)
 
-![Screenshot 2025-04-19 160409](https://github.com/user-attachments/assets/d45b0c35-b662-443b-add5-ba7369a80655)
-![Screenshot 2025-04-19 160416](https://github.com/user-attachments/assets/6e8daf5f-0b4f-4d12-b003-1869d6272517)
 
 # CLASSIFICATION REPORT
 
-![Screenshot 2025-04-19 160424](https://github.com/user-attachments/assets/2ec08cae-447b-4ded-bf40-247a487a8825)
-![Screenshot 2025-04-19 160432](https://github.com/user-attachments/assets/01130778-691f-4629-af49-3fd9cf65cf9b)
+![Screenshot 2025-04-19 173422](https://github.com/user-attachments/assets/6265df4b-6ac3-40bf-8b83-e87988927827)
+
 
 # PREDICTION
 
