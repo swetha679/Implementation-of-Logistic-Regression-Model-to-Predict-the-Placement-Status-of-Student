@@ -80,44 +80,34 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ![The Logistic Regression Model to Predict the Placement Status of Student](sam.png)
-# HEAD
 
-![Screenshot 2025-04-19 173322](https://github.com/user-attachments/assets/acae768c-b38c-45a9-95d2-913b721fe6ab)
-
-
-# COPY:
-
-![Screenshot 2025-04-19 173330](https://github.com/user-attachments/assets/816c2935-c0be-47ce-bb5e-dc7aa4cf32d1)
+![image](https://github.com/user-attachments/assets/ca0f6616-e1c9-4474-b221-0542ad1fb076)
 
 
+![image](https://github.com/user-attachments/assets/808a0582-0f2c-4b39-8fff-02639ebf1f44)
 
-# FIT TRANSFORM
-
-![Screenshot 2025-04-19 173341](https://github.com/user-attachments/assets/91a05e2a-b924-4439-a828-b84cfe63b589)
-
-
-#  LOGISTIC REGRESSION
-![Screenshot 2025-04-19 173351](https://github.com/user-attachments/assets/652c22b4-ff0e-49b5-bf38-d508e8d70e10)
+![image](https://github.com/user-attachments/assets/797771f6-a330-4ccc-94ef-4938ab863d99)
 
 
+![image](https://github.com/user-attachments/assets/aa98c682-74eb-40be-99ce-cd1265a9dbe0)
 
 
-#  ACCURACY SCORE
-![Screenshot 2025-04-19 173401](https://github.com/user-attachments/assets/1ab04dec-bc2a-42ec-802c-ea13bff1e5c4)
+![image](https://github.com/user-attachments/assets/f502d7b6-d0c8-485a-98bc-1d78363df5f0)
 
 
-# CONFUSION MATRIX
-![Screenshot 2025-04-19 173409](https://github.com/user-attachments/assets/8f807836-9013-4e77-b94e-3346dd23680b)
+![image](https://github.com/user-attachments/assets/96f6a06a-9411-4d52-99d2-3ec90168db93)
 
 
-# CLASSIFICATION REPORT
-
-![Screenshot 2025-04-19 173422](https://github.com/user-attachments/assets/6265df4b-6ac3-40bf-8b83-e87988927827)
+![image](https://github.com/user-attachments/assets/0fd052b3-68b5-429b-b889-21c49cdd943e)
 
 
-# PREDICTION
+![image](https://github.com/user-attachments/assets/b00ae6d9-a3f0-43ff-82b5-8cc522f7b5b4)
 
-![Screenshot 2025-04-19 160442](https://github.com/user-attachments/assets/12868059-fcdb-4a5f-bdaa-f920c1c8e52d)
+
+![image](https://github.com/user-attachments/assets/51c516b6-fc76-48cc-8cdf-2ea80f0f013a)
+
+
+![image](https://github.com/user-attachments/assets/3e42bfff-006b-42bb-91e5-8d965fd99daf)
 
 
 
